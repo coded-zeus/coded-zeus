@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Abdulsalam</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
+<img align="center" alt="coding" width="100%" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coded-zeus" alt="coded-zeus" /></a> </p>
 
